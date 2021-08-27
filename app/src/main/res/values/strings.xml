@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ProjectLayoutClase2</string>
+    <string name="ingrese_segundo_numero">Ingrese Segundo Numero</string>
+    <string name="ingrese_primer_numero">Ingrese Primer Numero</string>
+    <string name="todo">TODO</string>
+</resources>
